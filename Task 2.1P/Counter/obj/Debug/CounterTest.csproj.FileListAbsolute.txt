@@ -1,0 +1,7 @@
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\obj\Debug\CounterTest.csproj.AssemblyReference.cache
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\obj\Debug\CounterTest.csproj.CoreCompileInputs.cache
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\bin\Debug\Counter.exe.config
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\bin\Debug\Counter.exe
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\bin\Debug\Counter.pdb
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\obj\Debug\Counter.exe
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 2.1P\Counter\obj\Debug\Counter.pdb

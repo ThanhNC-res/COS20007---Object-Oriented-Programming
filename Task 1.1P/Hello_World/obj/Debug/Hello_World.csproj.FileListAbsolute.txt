@@ -1,0 +1,7 @@
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\bin\Debug\Hello_World.exe.config
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\bin\Debug\Hello_World.exe
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\bin\Debug\Hello_World.pdb
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\obj\Debug\Hello_World.exe
+D:\IT MAJOR\Object-Oriented Programming\Assignment\Task 1.1P\Hello_World\obj\Debug\Hello_World.pdb
