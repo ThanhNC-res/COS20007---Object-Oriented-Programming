@@ -1,0 +1,20 @@
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\bin\Debug\WorldOfTanks.exe.config
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\bin\Debug\WorldOfTanks.exe
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\bin\Debug\WorldOfTanks.pdb
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.MainForm.resources
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.Properties.Resources.resources
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.csproj.GenerateResource.cache
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.exe
+C:\Users\ADMIN\Source\Repos\Tank-1990\WorldOfTanks\obj\Debug\WorldOfTanks.pdb
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\bin\Debug\WorldOfTanks.exe.config
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\bin\Debug\WorldOfTanks.exe
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\bin\Debug\WorldOfTanks.pdb
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.csproj.AssemblyReference.cache
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.MainForm.resources
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.Properties.Resources.resources
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.csproj.GenerateResource.cache
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.csproj.CoreCompileInputs.cache
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.exe
+D:\IT MAJOR\Object-Oriented Programming\Practice\Tank\obj\Debug\WorldOfTanks.pdb
